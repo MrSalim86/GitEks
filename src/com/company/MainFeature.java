@@ -1,3 +1,5 @@
+package com.company;
+
 public class MainFeature {
     @Override
     public String toString() {
